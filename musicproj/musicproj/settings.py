@@ -77,10 +77,15 @@ WSGI_APPLICATION = 'musicproj.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/1.9/ref/settings/#databases
 
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql',
+        'NAME': 'consome104_2id60',
+        'USER': 'consome104_2id60',
+        'PASSWORD': 'Dp9JcXVjC7',
+        'HOST': '159.253.7.224',
+        'PORT': '3306',
     }
 }
 
