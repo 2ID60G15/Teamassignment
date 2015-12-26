@@ -1,0 +1,43 @@
+
+
+body {
+	font-size: 20px;
+	background-image: url("bg/background.jpg");
+	background-repeat: no-repeat;
+	background-position: center center; 
+	background-attachment: fixed;
+	webkit-background-size: cover;
+	moz-background-size: cover;
+	o-background-size: cover; background-size: cover;
+	height: 100%;
+}
+
+header {
+	display: inline-block;
+}
+
+
+
+ul
+{
+	list-style-type: none;
+}
+
+input {
+	min-width: 400px;
+	max-width: 30%;
+	display: inline-block;
+}
+
+table{
+	margin: auto;
+	margin-top: 20%;
+}
+
+
+
+button {
+	display: inline-block;
+	float: right;
+}
+
