@@ -151,6 +151,10 @@ button {
 	height:600px;
 	background: rgba(0, 0, 0, 0.7); 
 }
+#albumsartist a{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
 
 #albumsartist h2 {
 	font-family: "Comic Sans MS", cursive, sans-serif;
@@ -259,3 +263,5 @@ button {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: white;
 }
+
+/*end account page*/
