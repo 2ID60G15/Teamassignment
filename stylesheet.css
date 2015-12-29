@@ -41,3 +41,13 @@ button {
 	float: right;
 }
 
+#sentence{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #21BC3E;
+	text-shadow: 2px 2px #373837;
+	-webkit-box-reflect: below -5px -webkit-gradient(linear, left top, left bottom, from(transparent), to(rgba(255, 255, 255, 0.3))); /*voor reflection*/
+	margin-left:3%;
+	margin-top:3%;
+
+}
+
