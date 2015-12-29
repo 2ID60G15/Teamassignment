@@ -186,6 +186,10 @@ button {
 	color: #21BC3E;
 	text-shadow: 2px 2px #373837;
 }
+#namealbumartist a{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
 
 #songsalbum{
 	position:relative;
