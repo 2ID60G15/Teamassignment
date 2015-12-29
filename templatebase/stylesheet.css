@@ -215,3 +215,35 @@ button {
 
 
 /*end album page*/
+
+/*----------------------------------------*/
+
+/*account page*/
+.favoriteartists{
+	position:relative;
+	margin-top:15px;
+	margin-left:400px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+	background: rgba(0, 0, 0, 0.7); 
+	width:500px;
+}
+.favoriteartists h2{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #21BC3E;
+	text-shadow: 2px 2px #373837;
+}
+.recentdownloads{
+	position:relative;
+	margin-top:15px;
+	margin-left:950px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+	background: rgba(0, 0, 0, 0.7); 
+	width:500px;
+}
+.recentdownloads h2{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: #21BC3E;
+	text-shadow: 2px 2px #373837;
+}
