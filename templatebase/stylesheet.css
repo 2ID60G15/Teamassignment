@@ -232,6 +232,10 @@ button {
 	background: rgba(0, 0, 0, 0.7); 
 	width:500px;
 }
+.favoriteartists a{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
+}
 .favoriteartists h2{
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: #21BC3E;
@@ -250,4 +254,8 @@ button {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	color: #21BC3E;
 	text-shadow: 2px 2px #373837;
+}
+.homebutton a{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: white;
 }
